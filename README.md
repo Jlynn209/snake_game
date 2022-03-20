@@ -15,3 +15,6 @@ Clone the project
   run main.py
 ```
 
+## Screenshots
+
+![App Screenshot](https://i.gyazo.com/af5255cc0203201ebaffec39e51039dd.png)
